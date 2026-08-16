@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="RabassaMT.png" alt="RabassaMT" width="30%">
+<img src="../RabassaMT.png" alt="RabassaMT" width="30%">
 
 # RabassaMT
 
